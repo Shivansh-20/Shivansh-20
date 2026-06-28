@@ -12,7 +12,7 @@ Always excited to connect with fellow learners and explore more together!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [heyshivansh@gmail.com](mailto:heyshivansh@gmail.com)
-* 💬  Ask me about Understands the responsibility of Work
+  
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
